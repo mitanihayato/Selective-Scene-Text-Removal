@@ -28,7 +28,7 @@ For details, check the data structure in the `sample_data` folder.
 
 ### test
 `(Module name)_test.py`: Test codes for each module.  
-`selective_scene_text_removal_fine-tuning_test.py`: SSTR trst code.
+`selective_scene_text_removal_fine-tuning_test.py`: SSTR test code.
 
 ## Annotation
 We refer to SRNet to develop Background Extraction Module. Also, we refer to Conditioned U-Net to develop Selective Word Removal Module. The links for each implementation are as follows.  
