@@ -1,6 +1,6 @@
 # Selective Scene Text Removal (SSTR)
 ![model](./image/model-1.png)
-This is the pytorch implementation of Paper: Selective Scene Text Removal (BMVC2023).
+This is the pytorch implementation of Paper: Selective Scene Text Removal (Accepted at the 34th British Machine Vision Conference(BMVC2023)).
 The paper is available at [this link](https://arxiv.org/abs/2309.00410).
 
 ## Setup
