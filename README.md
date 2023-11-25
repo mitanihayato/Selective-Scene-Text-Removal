@@ -39,10 +39,12 @@ Conditioned U-Net : https://github.com/ws-choi/Conditioned-U-Net-pytorch
 ## Citation
 If you make use of our work, please cite our paper:
 ```
-@article{mitani2023selective,
-  title={Selective Scene Text Removal},
-  author={Mitani, Hayato and Kimura, Akisato and Uchida, Seiichi},
-  journal={arXiv preprint arXiv:2309.00410},
-  year={2023}
+@inproceedings{Mitani_2023_BMVC,
+author    = {Hayato Mitani and Akisato Kimura and Seiichi Uchida},
+title     = {Selective Scene Text Removal},
+booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+publisher = {BMVA},
+year      = {2023},
+url       = {https://papers.bmvc2023.org/0521.pdf}
 }
 ```
